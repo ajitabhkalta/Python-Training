@@ -1,0 +1,5 @@
+print("Hello\rHi")
+print("Hello\bHi")
+print("Hello\nHi")
+print("Hello\tHi")
+print("Hello\rWelcome\rHi")
